@@ -1,0 +1,7 @@
+* Advent of Code 2022
+** Day 1
+
+Quick hack to solve AOC Day 1.
+
+Challenges: Go's type system required extra nested-loops to cast the strings from reading the file
+to integers.  
